@@ -4,7 +4,7 @@
  *is written by mba
  *Return: Always 0
  */
-int main(main)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
